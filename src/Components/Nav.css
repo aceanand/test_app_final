@@ -1,0 +1,21 @@
+
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #687cb2;
+   
+}
+
+.navBar{
+    background-color: #0f318e;
+    vertical-align: middle;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 140;
+}
